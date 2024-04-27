@@ -1,0 +1,367 @@
+.PAI-LG {
+  background-color: #141414;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PAI-LG .PAI-LG-px {
+  background-color: #141414;
+  width: 1199px;
+  height: 900px;
+}
+
+.PAI-LG .overlap {
+  position: relative;
+  width: 1084px;
+  height: 900px;
+}
+
+.PAI-LG .background {
+  position: absolute;
+  width: 754px;
+  height: 900px;
+  top: 0;
+  left: 0;
+}
+
+.PAI-LG .PAI-logo {
+  position: absolute;
+  width: 112px;
+  height: 112px;
+  top: 297px;
+  left: 115px;
+  object-fit: cover;
+}
+
+.PAI-LG .group {
+  height: 117px;
+  top: 486px;
+  left: 115px;
+  position: absolute;
+  width: 564px;
+}
+
+.PAI-LG .div-wrapper {
+  height: 14px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 564px;
+}
+
+.PAI-LG .text-wrapper {
+  position: absolute;
+  width: 562px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 50.4px;
+  white-space: nowrap;
+}
+
+.PAI-LG .caso-voc-ainda-n-o {
+  position: absolute;
+  width: 403px;
+  top: 71px;
+  left: 5px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAI-LG .span {
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.PAI-LG .text-wrapper-2 {
+  font-family: "Poppins-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.PAI-LG .PAI-redes {
+  position: absolute;
+  width: 400px;
+  height: 339px;
+  top: 347px;
+  left: 684px;
+}
+
+.PAI-LG .PAI-login {
+  position: absolute;
+  width: 401px;
+  height: 77px;
+  top: 90px;
+  left: 0;
+}
+
+.PAI-LG .overlap-group {
+  position: relative;
+  width: 399px;
+  height: 77px;
+}
+
+.PAI-LG .rectangle {
+  top: 8px;
+  background-color: #0055c3;
+  box-shadow: 0px 12px 21px 4px #0055c333;
+  position: absolute;
+  width: 399px;
+  height: 60px;
+  left: 0;
+  border-radius: 10px;
+}
+
+.PAI-LG .div {
+  position: absolute;
+  width: 128px;
+  top: 0;
+  left: 136px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 77px;
+}
+
+.PAI-LG .PAI-reset {
+  position: absolute;
+  width: 179px;
+  height: 77px;
+  top: 0;
+  left: 223px;
+}
+
+.PAI-LG .text-wrapper-3 {
+  position: absolute;
+  width: 177px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #c7c7c7;
+  font-size: 14px;
+  letter-spacing: 1.4px;
+  line-height: 77px;
+}
+
+.PAI-LG .line {
+  position: absolute;
+  width: 401px;
+  height: 77px;
+  top: 181px;
+  left: 0;
+}
+
+.PAI-LG .text-wrapper-4 {
+  position: absolute;
+  width: 159px;
+  top: 0;
+  left: 120px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 77px;
+}
+
+.PAI-LG .img {
+  left: 0;
+  position: absolute;
+  width: 120px;
+  height: 1px;
+  top: 37px;
+  object-fit: cover;
+}
+
+.PAI-LG .line-2 {
+  left: 279px;
+  position: absolute;
+  width: 120px;
+  height: 1px;
+  top: 37px;
+  object-fit: cover;
+}
+
+.PAI-LG .facebook {
+  position: absolute;
+  width: 117px;
+  height: 60px;
+  top: 279px;
+  left: 283px;
+  background-color: #f6f6f6;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #dcdfdc;
+}
+
+.PAI-LG .shape {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 15px;
+  left: 43px;
+}
+
+.PAI-LG .apple {
+  position: absolute;
+  width: 117px;
+  height: 60px;
+  top: 279px;
+  left: 142px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 10px 13px #00000021;
+}
+
+.PAI-LG .shape-2 {
+  position: absolute;
+  width: 23px;
+  height: 28px;
+  top: 16px;
+  left: 47px;
+}
+
+.PAI-LG .google {
+  position: absolute;
+  width: 117px;
+  height: 60px;
+  top: 279px;
+  left: 0;
+  background-color: #f6f6f6;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #dcdfdc;
+}
+
+.PAI-LG .wrapper {
+  position: absolute;
+  width: 27px;
+  height: 28px;
+  top: 15px;
+  left: 44px;
+}
+
+.PAI-LG .PAI-e-mail {
+  position: absolute;
+  width: 399px;
+  height: 77px;
+  top: 214px;
+  left: 684px;
+}
+
+.PAI-LG .overlap-2 {
+  position: relative;
+  height: 77px;
+  top: -1px;
+}
+
+.PAI-LG .rectangle-2 {
+  top: 9px;
+  background-color: #edeeff;
+  position: absolute;
+  width: 399px;
+  height: 60px;
+  left: 0;
+  border-radius: 10px;
+}
+
+.PAI-LG .e-mail {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #4f555a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 77px;
+  white-space: nowrap;
+}
+
+.PAI-LG .x {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 27px;
+  left: 352px;
+}
+
+.PAI-LG .overlap-group-wrapper {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  top: 3px;
+  left: 3px;
+  border-radius: 35px;
+  border: 1px solid;
+  border-color: #667085;
+}
+
+.PAI-LG .stroke-wrapper {
+  position: relative;
+  width: 6px;
+  height: 6px;
+  top: 7px;
+  left: 6px;
+  background-size: 100% 100%;
+}
+
+.PAI-LG .stroke {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 0;
+  left: 0;
+}
+
+.PAI-LG .PAI-senha {
+  position: absolute;
+  width: 399px;
+  height: 77px;
+  top: 294px;
+  left: 684px;
+}
+
+.PAI-LG .overlap-3 {
+  position: relative;
+  height: 60px;
+  top: 8px;
+  background-color: #edeeff;
+  border-radius: 10px;
+}
+
+.PAI-LG .text-wrapper-5 {
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #667085;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.PAI-LG .x-2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 18px;
+  left: 351px;
+}
